@@ -1,0 +1,3 @@
+com/me/jmstest/client/Client.class
+com/me/jmstest/server/MessageProtocol.class
+com/me/jmstest/server/Server.class
